@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "따끈한 이슈를 제공합니다"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png"
   bio              : ""
   location         : "South Korea"
   email            : "lyrics101@protonmail.com"
