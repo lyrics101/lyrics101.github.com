@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Today Issue Clipping"
+  name             : "따끈한 이슈를 제공합니다"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "South Korea"
